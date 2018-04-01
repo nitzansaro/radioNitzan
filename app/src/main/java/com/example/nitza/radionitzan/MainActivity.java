@@ -36,9 +36,9 @@ LinearLayout Ln;
     public void change(View view) {
         if (r1.isChecked()){
             Ln.setBackgroundColor(GREEN);}
-            else if (r1.isChecked()){
+            else if (r2.isChecked()){
             Ln.setBackgroundColor(Color.BLUE);}
-            else if (r1.isChecked()){
+            else if (r3.isChecked()){
             Ln.setBackgroundColor(Color.RED);}
 
 
